@@ -42,7 +42,8 @@ If somehow Chaos Mod added a new effect called "**effect_super_aggresive_drivers
  ## To-do:
  
  - If you voted for  an effect and you vote for another one, make it delete from the first one and vote the another.
- - Learn to code
+ - Idk how to use pickedChoice and what's the use of it, so I always send Undetermined, maybe fix [this](https://github.com/Hidend/GTA-Chaos-Mod-Discord-Bot/blob/main/ChaosModService.cs#L204) ?
+ - Learn to code (or at least clean it)
 
  ## Thanks
  Thanks to @[Lordmau5](https://github.com/Lordmau5) for Chaos Mod and all the help on Discord!

@@ -16,7 +16,7 @@ You need a json called **chaosDiscordConfig.cfg** with these settings:
     "CooldownDurationMs": 30000,
     "EffectDuration": -1,
     "ShowVotesInGame": false
-}
+    }
 Token: [Discord Bot Token](https://docs.discordbotstudio.org/setting-up-dbs/finding-your-bot-token)
 EffectsPath: Path to config.cfg of Chaos Mod, we get effects from there, so if you update Chaos Mod, effects will be updated too!
 GuildId: Id of the server you will be sending the vote message (Right click on the server image and click copy id)

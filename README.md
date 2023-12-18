@@ -22,7 +22,8 @@ EffectsPath: Path to config.cfg of Chaos Mod, we get effects from there, so if y
 GuildId: Id of the server you will be sending the vote message (Right click on the server image and click copy id)  
 ChannelId: Id of the channel you will be sending the vote message (Right click the channel and click copy id)  
 VotingTimeDurationMs: Vote time in milliseconds, basically the time you allow the vote be active  
-CooldownDurationMs: Cooldown time in milliseconds, basically the time you wait until you ask a new vote.30000, EffectDuration: -1 for a random number between 10 and 60s, if there's an static value like 25000, then every effect will stay for 25s  
+CooldownDurationMs: Cooldown time in milliseconds, basically the time you wait until you ask a new vote.  
+EffectDuration: -1 for a random number between 10 and 60s, if there's an static value like 25000, then every effect will stay for 25s  
 ShowVotesInGame; If false, you won't see the votes people make on Discord in-game, if true, you will.  
 
 ### effectsdisplaytext.cfg
